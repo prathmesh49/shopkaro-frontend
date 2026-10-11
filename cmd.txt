@@ -1,0 +1,3 @@
+create react project 
+
+npm create vite@latest amazon-clone -- --template react-ts
